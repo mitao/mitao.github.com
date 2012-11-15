@@ -1,0 +1,11 @@
+body,h1,h2,p{margin:0;padding:0;}
+body {font:normal normal normal 12px/22px Verdana, Tahoma, Helvetica, Arial, "Microsoft YaHei", SimSun, sans-serif;text-align:center;}
+p{text-indent:0;}
+#contact{margin:30px 0 20px;}
+#contact h2{width:133px;margin-bottom:10px;background: url(../public/buy.png) no-repeat;text-align: center;color:#000;}
+#contact h2 a{color:#FFF;}
+.cn{font-family:"Microsoft YaHei", SimSun, sans-serif;}
+.en{font-family:Verdana, Tahoma, Helvetica, Arial, sans-serif;}
+.email{background:url(../public/email.gif) no-repeat 0 5px;}
+.tel{background:url(../public/tel.gif) no-repeat 0 5px;}
+.qq{width:150px;background:url(../public/qq.gif) no-repeat 0 5px;}

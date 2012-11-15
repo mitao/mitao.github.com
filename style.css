@@ -1,0 +1,17 @@
+body{background:#2d2b2c;color:#FFF;}
+a:link,a:visited{color:#F00;text-decoration:none}
+a:hover{color:#F30;text-decoration:none;}
+p{text-indent:0;}
+#container{text-align:left;background:url(bg.jpg) no-repeat center top;}
+h1{width:720px;margin:0 auto;padding:20px 0 20px;font-size:48px;}
+.info{width:720px;margin:0 auto;color:#EEE;font-size:14px;}
+.info p{display:inline;}
+#main{width:758px;margin:0 auto;padding:30px 1px 0;background:url(main1.jpg) no-repeat -8px bottom;overflow:hidden;}
+#contact p{line-height:24px;text-indent:30px;}
+#contact span{display:none;}
+#contact a{color:#FFF;}
+h2{line-height:30px;font-size:14px;}
+.intro{padding:10px 0 10px 10px;}
+.intro p{line-height:24px;text-indent:0;color:#EEE;}
+.i1{border-bottom:1px dashed #CCC;}
+#footer{clear:both;padding:20px 0;text-align:center;}
